@@ -23,7 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/self_page/';
+//$config['base_url'] = 'http://localhost/self_page/';
+$config['base_url'] = 'https://yanribas.github.io/yanselfpage/';
 
 /*
 |--------------------------------------------------------------------------
